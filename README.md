@@ -11,3 +11,6 @@
 - #### Para remover é obrigatorio marcar a caixa de concluido
 
 - #### caso a lista passe a lebel se cria um scroll bar para rolar entre os objetivos
+=======
+#### Um pequeno e simples gerenciador de lista com fuções de adicionar e remover Check boxes utilizando JFrame. 
+
